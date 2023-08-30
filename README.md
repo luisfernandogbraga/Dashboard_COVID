@@ -1,6 +1,6 @@
 projeto feito em Python
-
 # Dashboard_COVID
+![gettyimages-1253358164-612x612](https://github.com/luisfernandogbraga/Dashboard_COVID/assets/134460985/58edb3da-5a13-4192-bb18-51e9849743d0)
 
 ##  Introdução
 ### ** TLDR** 
