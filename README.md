@@ -5,7 +5,7 @@ projeto feito em Python
 ##  Introdução
 ### TLDR 
 - **Dashboard**: Google Data Studio (`link`).
-- **Processamento**: ARQ. covid.ipynb 
+- **Processamento**: ARQ. covid.ipynb / vacinacao.ipynb
  - **Fontes**: 
    - Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
    - Vacinação pela universidade de Oxford ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)).
