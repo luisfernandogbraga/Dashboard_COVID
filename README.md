@@ -4,7 +4,7 @@ projeto feito em Python
 
 ##  Introdução
 ### TLDR 
-- **Dashboard**: Google Data Studio ([link](https://lookerstudio.google.com/reporting/b6dbd815-f8c2-450b-bf0f-349a86e22d22)).
+- **Dashboard**: Google Data Studio ([link](https://lookerstudio.google.com/reporting/f941ebe9-bea4-442f-8b9b-def80582fcaf)).
 - **Processamento**: ARQ. covid.ipynb / vacinacao.ipynb
  - **Fontes**: 
    - Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
